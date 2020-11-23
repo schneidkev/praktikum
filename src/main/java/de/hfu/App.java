@@ -7,7 +7,7 @@ package de.hfu;
 import java.util.Scanner;
 public class App 
 {
-    public static void main( String[] args )
+   /* public static void main( String[] args )
     {
     	Scanner tastatur = new Scanner(System.in);
     	String test;
@@ -15,5 +15,6 @@ public class App
     	test = tastatur.next();
     	test = test.toUpperCase();
     	System.out.println(test);
-    }
+    	System.out.println(Util.istErstesHalbjahr(1));
+    }*/
 }
